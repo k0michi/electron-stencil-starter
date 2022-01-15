@@ -10,5 +10,5 @@ git clone https://github.com/k0michi/electron-stencil-starter
 cd electron-stencil-starter
 npm install
 npm run build
-npm run run
+npm run start
 ```
